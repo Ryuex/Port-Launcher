@@ -1,161 +1,158 @@
 # 🎮 Port Launcher
 
-> 🚀 Um launcher de ports de jogos desenvolvido com foco total em Android.
+<p align="center">
+  <b>Uma experiência renovada para organizar e executar ports no Android.</b>
+</p>
 
-O **Port Launcher** é um projeto baseado no
-**Ports Launcher**, criado originalmente por **Nyaldee**.
+<p align="center">
+  <img src="preview-v1.5-home.png" width="320" alt="Port Launcher v1.5">
+</p>
 
-Esta versão nasceu com o objetivo de transformar e expandir a experiência
-original, oferecendo uma interface totalmente adaptada para Android,
-melhor usabilidade em telas touchscreen e um catálogo maior de ports.
-
----
-
-## 📱 Feito para Android
-
-O Port Launcher está sendo desenvolvido com prioridade total para dispositivos
-Android.
-
-A interface foi retrabalhada para proporcionar uma experiência mais natural
-em smartphones e tablets, evitando uma experiência que simplesmente pareça
-um programa de desktop executando no celular.
-
-### ✨ Principais melhorias
-
-📱 **Interface focada 100% em Android**
-- Layout adaptado para telas de smartphones
-- Navegação otimizada para touchscreen
-- Botões e menus reorganizados
-- Melhor aproveitamento da tela
-- Experiência visual mais próxima de um aplicativo Android
-
-🎮 **Mais ports**
-- Catálogo expandido
-- Novos ports adicionados além da seleção original
-- Estrutura preparada para receber ainda mais jogos futuramente
-
-⚡ **Experiência simplificada**
-- Encontrar ports
-- Instalar
-- Configurar os arquivos necessários
-- Atualizar
-- Abrir e jogar
-
-Tudo através de uma interface única.
+<p align="center">
+  <b>Android • Game Ports • Launcher</b>
+</p>
 
 ---
 
-## 🕹️ O que são Ports?
+## 🚀 Sobre o projeto
 
-Ports permitem que jogos originalmente desenvolvidos para outras plataformas
-sejam executados nativamente ou através de projetos de recompilação/source
-ports em sistemas modernos.
+**Port Launcher** é um launcher para Android focado em facilitar o acesso e a organização de diferentes ports de jogos em um único lugar.
 
-O **Port Launcher não distribui ROMs, ISOs ou arquivos proprietários de jogos**.
+Este projeto utiliza como base o APK/projeto original **Ports Launcher**, desenvolvido por **Nyaldee**.
 
-Quando determinado port necessita dos arquivos originais de um jogo, o usuário
-deve fornecê-los a partir de uma cópia adquirida legalmente.
+A partir dessa base, o projeto foi modificado e expandido com foco em uma experiência melhor no Android, incluindo uma interface renovada e suporte a uma quantidade maior de ports.
 
----
-
-## 🚀 Objetivos do projeto
-
-O objetivo do Port Launcher é criar uma central de ports para Android que seja:
-
-- 📱 Simples de usar
-- 🎮 Feita pensando em jogadores mobile
-- ⚡ Leve
-- 🧩 Fácil de expandir
-- 🔄 Preparada para novos ports
-- 🎨 Visualmente integrada ao Android
-- 🎮 Compatível com controles sempre que o port oferecer suporte
-
-A ideia é que o usuário não precise procurar manualmente dezenas de projetos
-diferentes para descobrir ports disponíveis para Android.
+> 💜 O objetivo não é apagar o trabalho original, mas continuar desenvolvendo a ideia, preservando os devidos créditos ao projeto que serviu como base.
 
 ---
 
-## 🧩 Catálogo de Ports
+## ✨ Principais mudanças
 
-O catálogo do **Port Launcher** está sendo expandido em relação à base original.
+📱 **Interface renovada para Android**  
+A interface recebeu modificações para proporcionar uma experiência mais moderna e adequada ao uso em dispositivos móveis.
 
-A intenção é reunir cada vez mais:
+🎮 **Mais ports disponíveis**  
+O catálogo foi expandido para permitir que mais jogos e projetos possam ser utilizados através do launcher.
 
-- 🔄 Projetos de recompilação
-- 🛠️ Source ports
-- 🎮 Ports nativos
-- 📱 Builds compatíveis com Android
-- 🆕 Novos projetos da comunidade
+🕹️ **Experiência centralizada**  
+A proposta é manter diferentes ports acessíveis através de uma única interface.
 
-A disponibilidade e os requisitos dependem de cada projeto.
+⚡ **Navegação simplificada**  
+Organização da interface e dos elementos do launcher para tornar o acesso aos jogos mais direto.
+
+🔧 **Projeto em desenvolvimento**  
+Novas melhorias, correções e ports poderão ser adicionados conforme o desenvolvimento continuar.
 
 ---
 
-## 🛠️ Projeto Base
+## 📸 Preview — v1.5
 
-Este projeto utiliza como base o:
+<p align="center">
+  <img src="preview-v1.5-home.png" width="350" alt="Port Launcher v1.5 - Home">
+</p>
 
-**Ports Launcher — Nyaldee**
+<p align="center">
+  <i>Tela inicial do Port Launcher v1.5.</i>
+</p>
+
+---
+
+## 🎯 Objetivos
+
+O desenvolvimento do Port Launcher busca:
+
+- 🎮 aumentar gradualmente a quantidade de ports disponíveis;
+- 📱 melhorar cada vez mais a experiência no Android;
+- 🎨 desenvolver uma identidade visual própria;
+- 🧭 manter a navegação simples e organizada;
+- ⚡ melhorar estabilidade e desempenho;
+- 🛠️ facilitar futuras atualizações e manutenção;
+- 💜 preservar os créditos dos projetos utilizados como base.
+
+---
+
+## 📦 Ports
+
+O Port Launcher foi pensado para reunir diferentes projetos e ports em uma experiência centralizada.
+
+A disponibilidade e compatibilidade de cada jogo podem variar conforme:
+
+- dispositivo;
+- versão do Android;
+- arquitetura do processador;
+- requisitos específicos de cada port;
+- arquivos adicionais exigidos pelo respectivo projeto.
+
+> Alguns ports podem exigir arquivos originais do jogo que não são distribuídos pelo launcher.
+
+---
+
+## 📱 Compatibilidade
+
+O projeto é desenvolvido com foco em **Android**.
+
+O funcionamento de determinados ports pode variar dependendo do hardware e software do dispositivo.
+
+Dispositivos diferentes podem apresentar diferenças de:
+
+- desempenho;
+- compatibilidade gráfica;
+- controles;
+- áudio;
+- estabilidade.
+
+---
+
+## 🛠️ Desenvolvimento
+
+O projeto continuará recebendo melhorias conforme novas versões forem desenvolvidas.
+
+Entre as áreas que poderão evoluir estão:
+
+- interface;
+- organização da biblioteca;
+- suporte a novos ports;
+- compatibilidade;
+- controles;
+- desempenho;
+- correções de bugs.
+
+---
+
+## 🤝 Projeto base
+
+Este projeto foi desenvolvido utilizando como base o:
+
+### Ports Launcher — Nyaldee
 
 Projeto original:
+
 https://github.com/Nyaldee/Ports-Launcher
 
-O Ports Launcher original é um gerenciador e instalador de ports/recompilações
-de jogos desenvolvido em **Rust + Slint**.
+Uma parte importante da estrutura inicial deste projeto deriva desse trabalho.
 
-O **Port Launcher** modifica e expande essa base com foco especial na
-experiência Android, incluindo mudanças de interface, navegação e expansão
-do catálogo.
-
-❤️ Todo crédito pelo projeto e trabalho original pertence aos seus respectivos
-autores e colaboradores.
+Todos os créditos correspondentes ao projeto original e aos seus respectivos autores devem ser preservados.
 
 ---
 
 ## ⚖️ Aviso
 
-O Port Launcher é apenas uma ferramenta para organizar, instalar e executar
-projetos de ports disponíveis separadamente.
+O **Port Launcher** é um projeto independente.
 
-Este projeto não fornece:
+Os jogos, marcas, nomes, personagens e demais propriedades intelectuais mencionados pertencem aos seus respectivos proprietários.
 
-❌ ROMs  
-❌ ISOs  
-❌ Jogos comerciais  
-❌ Assets proprietários  
-❌ Arquivos protegidos por direitos autorais dos jogos  
+O launcher não concede direitos sobre jogos comerciais e não substitui a necessidade de possuir legalmente os arquivos exigidos por cada port.
 
-Os direitos de cada jogo pertencem aos seus respectivos proprietários.
+Cada projeto integrado também pode possuir sua própria licença, créditos e requisitos de distribuição.
 
 ---
 
-## 📜 Licença
+## 💜 Port Launcher
 
-Este projeto é derivado do **Ports Launcher**, disponibilizado sob a
-**GNU General Public License v3.0 (GPL-3.0)**.
+<p align="center">
+  Feito para tornar a experiência com ports no Android mais simples, organizada e acessível.
+</p>
 
-As modificações e redistribuições deste projeto devem respeitar os termos
-da licença original.
-
-Consulte o arquivo `LICENSE` para mais informações.
-
----
-
-## ❤️ Créditos
-
-### Ports Launcher
-Projeto original desenvolvido por **Nyaldee**.
-
-### Port Launcher
-Versão modificada e expandida com foco em Android.
-
-Também agradecemos a todos os desenvolvedores responsáveis pelos source ports,
-recompilações e ferramentas open-source que tornam este projeto possível.
-
----
-
-# 🎮 Port Launcher
-
-### Seus ports. Seu Android. Uma única biblioteca.
-
-🚧 **Projeto em desenvolvimento**
+<p align="center">
+  🎮 <b>Mais ports. Uma interface. Android.</b>
+</p>
